@@ -1,0 +1,24 @@
+{
+  "creators": [
+    {
+      "affiliation": "Monash University",
+      "name": "Ashton, Gregory",
+      "orcid": "0000-0001-7288-2231"
+    },
+    {
+      "affiliation": "Universitat de les Illes Balears",
+      "name": "Keitel, David",
+      "orcid": "0000-0002-2824-626X"
+    },
+  ],
+  "keywords": [
+    "data analysis",
+    "gravitational waves",
+    "neutron stars",
+    "python",
+    "ligo"
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "software"
+}
