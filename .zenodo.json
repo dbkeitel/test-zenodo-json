@@ -22,11 +22,15 @@
     }
   ],
   "keywords": [
+    "astrophysics",
     "data analysis",
+    "gravity",
     "gravitational waves",
     "neutron stars",
-    "python",
-    "ligo"
+    "python3",
+    "ligo",
+    "virgo",
+    "pycuda"
   ],
   "access_right": "open",
   "license": "MIT",
