@@ -34,5 +34,13 @@
   ],
   "access_right": "open",
   "license": "MIT",
-  "upload_type": "software"
+  "upload_type": "software",
+  "related_identifiers": [
+        {
+            "scheme": "doi", 
+            "identifier": "10.5072/zenodo.655353", 
+            "relation": "isNewVersionOf", 
+            "resource_type": "software"
+        }
+    ]
 }
