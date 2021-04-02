@@ -1,36 +1,13 @@
 {
   "creators": [
     {
-      "affiliation": "Monash University",
-      "name": "Ashton, Gregory",
-      "orcid": "0000-0001-7288-2231"
-    },
-    {
       "affiliation": "Universitat de les Illes Balears",
       "name": "Keitel, David",
       "orcid": "0000-0002-2824-626X"
-    },
-    {
-      "affiliation": "Albert Einstein Institute",
-      "name": "Prix, Reinhard",
-      "orcid": "0000-0002-3582-2587"
-    },
-    {
-      "affiliation": "Universitat de les Illes Balears",
-      "name": "Tenorio, Rodrigo",
-      "orcid": "0000-0002-3789-6424"
     }
   ],
   "keywords": [
-    "astrophysics",
-    "data analysis",
-    "gravity",
-    "gravitational waves",
-    "neutron stars",
-    "python3",
-    "ligo",
-    "virgo",
-    "pycuda"
+    "zenodo"
   ],
   "access_right": "open",
   "license": "MIT",
@@ -41,6 +18,11 @@
             "identifier": "10.5072/zenodo.655353", 
             "relation": "isNewVersionOf", 
             "resource_type": "software"
+        },
+        {
+           "identifier": "https://pyfstat.readthedocs.io/en/v1.11.5/",
+           "relation": "isDocumentedBy",
+           "resource_type": "softwaredocumentation"
         }
     ]
 }
