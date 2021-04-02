@@ -20,9 +20,10 @@
             "resource_type": "software"
         },
         {
+           "scheme": "url", 
            "identifier": "https://pyfstat.readthedocs.io/en/v1.11.5/",
            "relation": "isDocumentedBy",
-           "resource_type": "softwaredocumentation"
+           "resource_type": "publication-softwaredocumentation"
         }
     ]
 }
